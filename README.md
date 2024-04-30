@@ -23,5 +23,5 @@
 |TerVisual|é uma linguagem que estou criando a partir do Python, usando a biblioteca flet, com isso, o TerVisual seriá o novo HTML, porém servirá tanto para a web e para aplicativos mobile|
 |TerceQL|é uma linguagem que estou criando junto com o TerVisual, e vai ser também em python, minha proposta seria, criar um arquivo, onde o TerceQL possa fazer a leitura, inserir e exluir dados, seriá um banco de dados interno|
 
-## Linguagens usadas nos últimos seis meses
-[![Tercette01](https://github-readme-stats.vercel.app/api?username=Tercette01&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/Tercette01)
+## Linguagens mais usadas
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
